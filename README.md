@@ -2,7 +2,7 @@
 
 ## Overview
 
-Car Service Manager is a Python project which is was part of the Back-End Engineering Job Simulation program by "Lyft Inc" from Forage, aimed at managing the servicing needs of a fleet of cars. It employs design patterns such as Factory Method, Strategy, and Composition to maintain an easily extensible, modular codebase.
+Car Service Manager is a Python project that was part of my Back-End Engineering Job Simulation program by "Lyft Inc" from Forage, aimed at managing the servicing needs of a fleet of cars. It employs design patterns such as Factory Method, Strategy, and Composition to maintain an easily extensible, modular codebase.
 
 ## Features
 
