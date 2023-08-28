@@ -11,7 +11,7 @@ class SpindlerBattery(Battery):
         self.current_date = current_date
 
     def needs_service(self) -> bool:
-        return (self.current_date - self.last_service_date).days >= 180
+        return (self.current_date - self.last_service_date).days >= 1095
 
 class NubbinBattery(Battery):
     def __init__(self, last_service_date: date, current_date: date):
